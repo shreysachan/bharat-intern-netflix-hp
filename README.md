@@ -1,2 +1,2 @@
-# bharat-intern-netflix-hp
-Bharat Intern Internship Netflix homepage
+# Netflix_BI
+Netflix Clone
